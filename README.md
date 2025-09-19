@@ -35,7 +35,8 @@ Dataset
 * Built an interactive Power BI dashboard to visualize sales trends, improving stakeholder decision-making and identifying strategies projected to boost revenue by 12% and cut inventory waste by 18%.
 
 # Dashboard
-
+<img width="1455" height="801" alt="Dashboard img 1" src="https://github.com/user-attachments/assets/ef734484-4848-431b-a663-caab49e5065b" />
+<img width="1453" height="789" alt="Dashboard img 2" src="https://github.com/user-attachments/assets/369e1aeb-62cd-44a9-a34b-170f971a9c9d" />
 
 # Final Conclusion:
 
