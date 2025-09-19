@@ -5,7 +5,7 @@
 A Domino's Pizza Outlet wants to analyze the key indicators for their pizza sales data to gain insights into thier 
 business performance.
 
-##Dataset
+## Dataset
 - <a href="https://github.com/gmrsingha/Domino-s-Sales-Data-Analysis/blob/main/Dataset.xlsx">Domino's-Sales Data</a>
 
  ## KPIs Requirement:
